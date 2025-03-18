@@ -7,7 +7,7 @@ This is the source code for my personal website. On this page, you will find a s
 
 ## Acknowledgement 
 
-<a href="https://www.flaticon.com/free-icons/www" title="www icons">Www icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by redempticon - Flaticon</a>
 
 ## Disclaimer
 
